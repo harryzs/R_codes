@@ -1,4 +1,4 @@
-##9.4.2014
+##6.8.2014
 
 run_plot_for_FASTQC_summary<-function(path_to_file, file){
   
