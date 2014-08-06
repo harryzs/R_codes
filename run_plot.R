@@ -1,6 +1,8 @@
 ##6.8.2014
 ## test 
 
+##make a change at local
+
 run_plot_for_FASTQC_summary<-function(path_to_file, file){
   
   cat ("\n run_plot_for_FASTQC_summary start\n")
