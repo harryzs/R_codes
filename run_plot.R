@@ -1,7 +1,7 @@
 ##6.8.2014
 ## test 
 
-##make a change at local
+##make a change at local 2
 
 run_plot_for_FASTQC_summary<-function(path_to_file, file){
   
