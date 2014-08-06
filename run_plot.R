@@ -1,4 +1,5 @@
 ##6.8.2014
+## test 
 
 run_plot_for_FASTQC_summary<-function(path_to_file, file){
   
